@@ -13,7 +13,6 @@ const Design = () => (
         artwork
       </a>
     </div>
-
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
       some&nbsp;
