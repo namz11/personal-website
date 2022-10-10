@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <>
       <section className="min-h-screen bg-amber-50 page">
-        <div className="wrapper mx-auto h-full mb-20 text-stone-500">
+        <div className="wrapper mx-auto h-full mb-20 px-3 text-stone-500">
           <Header />
           <About />
           <Past />
