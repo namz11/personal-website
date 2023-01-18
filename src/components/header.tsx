@@ -4,7 +4,7 @@ import Image from "next/image";
 const Header = () => (
   <>
     <div className="flex justify-center">
-      <Image src="/nm-logo.png" alt="abc" width="120" height="120" />
+      <img src="/nm-logo.png" alt="narmit mashru logo" className="w-32	h-32" />
     </div>
   </>
 );

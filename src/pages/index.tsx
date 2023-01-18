@@ -6,12 +6,10 @@ import Ideas from "@components/ideas";
 import Design from "@components/design";
 
 const Home = () => {
-  const abc = "";
-
   return (
     <>
       <section className="min-h-screen bg-amber-50 page">
-        <div className="wrapper mx-auto h-full mb-20 px-3 text-stone-500">
+        <div className="wrapper mx-auto mb-20 px-3 text-stone-500">
           <Header />
           <About />
           <Past />

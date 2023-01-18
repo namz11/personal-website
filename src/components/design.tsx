@@ -9,6 +9,8 @@ const Design = () => (
       <a
         className="text-stone-900"
         href="https://www.behance.net/narmitmashruw"
+        target="_blank"
+        rel="noreferrer"
       >
         artwork
       </a>
@@ -16,7 +18,21 @@ const Design = () => (
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
       some&nbsp;
-      <a className="text-stone-900" href="https://vsco.co/narmit/gallery">
+      <a
+        className="text-stone-900"
+        href="https://vsco.co/narmit/gallery"
+        target="_blank"
+        rel="noreferrer"
+      >
+        pictures
+      </a>
+      &nbsp;and some more&nbsp;
+      <a
+        className="text-stone-900"
+        href="https://unsplash.com/@_narmit"
+        target="_blank"
+        rel="noreferrer"
+      >
         pictures
       </a>
     </div>

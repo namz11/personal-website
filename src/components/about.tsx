@@ -11,13 +11,20 @@ const About = () => (
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
-      <a className="text-stone-900" href="https://twitter.com/_narmit">
+      <a
+        className="text-stone-900"
+        href="https://twitter.com/_narmit"
+        target="_blank"
+        rel="noreferrer"
+      >
         Twitter
       </a>
       ,&nbsp;
       <a
         className="text-stone-900"
         href="https://www.linkedin.com/in/narmitmashruwala/"
+        target="_blank"
+        rel="noreferrer"
       >
         LinkedIn
       </a>
@@ -25,11 +32,18 @@ const About = () => (
       <a
         className="text-stone-900"
         href="mailto:narmitmashruwala@gmail.com?subject=[Website]..."
+        target="_blank"
+        rel="noreferrer"
       >
         Email
       </a>
       ,&nbsp;
-      <a className="text-stone-900" href="https://github.com/namz11">
+      <a
+        className="text-stone-900"
+        href="https://github.com/namz11"
+        target="_blank"
+        rel="noreferrer"
+      >
         GitHub
       </a>
     </div>
@@ -39,7 +53,12 @@ const About = () => (
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
-      <a className="text-stone-900" href="/NarmitMashruwala.pdf">
+      <a
+        className="text-stone-900"
+        href="/NarmitMashruwala.pdf"
+        target="_blank"
+        rel="noreferrer"
+      >
         Resume
       </a>
     </div>
