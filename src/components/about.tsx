@@ -7,7 +7,7 @@ const About = () => (
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
       grad student in CS at&nbsp;
-      <span className="text-stone-900">Stevens Institute</span>
+      <span>Stevens Institute</span>
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
