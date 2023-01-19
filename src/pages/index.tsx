@@ -22,12 +22,7 @@ const BgSketch = () => {
   };
 
   const draw = (p5: p5Types) => {
-    p5.background(0);
-    p5.ellipse(x, y, 70, 70);
-    x++;
-
     const m = 100;
-
     const topR = 255 * p5.noise(p5.frameCount / m);
     const topG = 255 * p5.noise(1000 + p5.frameCount / m);
     const topB = 255 * p5.noise(2000 + p5.frameCount / m);
