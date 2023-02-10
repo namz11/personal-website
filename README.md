@@ -2,4 +2,4 @@
 
 Hello 👋,&nbsp;I'm Narmit Mashruwala.
 
-Checkout -
+Checkout - [portfolio](https://narmitmashru.netlify.app/)
