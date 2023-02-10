@@ -8,7 +8,7 @@ const Design = () => (
       checkout some of my&nbsp;
       <a
         className="text-stone-900"
-        href="https://www.behance.net/narmitmashruw"
+        href="https://www.behance.net/narmitmashru"
         target="_blank"
         rel="noreferrer"
       >
