@@ -11,6 +11,10 @@ const About = () => (
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
+      software dev, product management, system design, databases
+    </div>
+    <div>
+      <span className="text-xl pr-1">&#x2022;</span>
       <a
         className="text-stone-900"
         href="https://twitter.com/_narmit"
@@ -46,10 +50,6 @@ const About = () => (
       >
         GitHub
       </a>
-    </div>
-    <div>
-      <span className="text-xl pr-1">&#x2022;</span>
-      software dev, product management, system design, databases
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
