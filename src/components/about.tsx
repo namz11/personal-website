@@ -55,7 +55,7 @@ const About = () => (
       <span className="text-xl pr-1">&#x2022;</span>
       <a
         className="text-stone-900"
-        href="/NarmitMashruwala.pdf"
+        href="https://www.dropbox.com/scl/fi/yje0g17tomz8oxisadok8/CV_NarmitMashruwala.pdf?rlkey=us3nx6bexsehenq5i9d9ah0b7&dl=0"
         target="_blank"
         rel="noreferrer"
       >

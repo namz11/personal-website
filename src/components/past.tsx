@@ -5,6 +5,13 @@ const Past = () => (
     <div className="flex justify-center text-stone-900 pt-6 pb-4">PAST</div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
+      infra intern at&nbsp;
+      <a className="text-stone-900" href="https://wasabi.com/">
+        Wasabi
+      </a>
+    </div>
+    <div>
+      <span className="text-xl pr-1">&#x2022;</span>
       frontend engineer at&nbsp;
       <a className="text-stone-900" href="https://privatecircle.co/">
         PrivateCircle
