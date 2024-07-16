@@ -6,12 +6,20 @@ const About = () => (
     <div className="flex justify-center text-stone-900 pb-4">ABOUT</div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
-      grad student in CS at&nbsp;
-      <span>Stevens Institute</span>
+      infra at&nbsp;
+       <a
+        className="text-stone-900"
+        href="https://jobs.lever.co/wasabi"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Wasabi
+      </a>
+      &nbsp;(We&apos;re hiring!)
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
-      software dev, product management, system design, databases
+      devops, automation, system design, databases
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
@@ -51,7 +59,7 @@ const About = () => (
         GitHub
       </a>
     </div>
-    <div>
+    {/* <div>
       <span className="text-xl pr-1">&#x2022;</span>
       <a
         className="text-stone-900"
@@ -61,7 +69,7 @@ const About = () => (
       >
         Resume
       </a>
-    </div>
+    </div> */}
   </>
 );
 

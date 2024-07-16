@@ -5,13 +5,6 @@ const Past = () => (
     <div className="flex justify-center text-stone-900 pt-6 pb-4">PAST</div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
-      infra intern at&nbsp;
-      <a className="text-stone-900" href="https://wasabi.com/">
-        Wasabi
-      </a>
-    </div>
-    <div>
-      <span className="text-xl pr-1">&#x2022;</span>
       frontend engineer at&nbsp;
       <a className="text-stone-900" href="https://privatecircle.co/">
         PrivateCircle
@@ -40,11 +33,15 @@ const Past = () => (
     </div>
     <div>
       <span className="text-xl pr-1">&#x2022;</span>
-      studied computer science at DA-IICT (batch of 2018)
-    </div>
-    <div>
-      <span className="text-xl pr-1">&#x2022;</span>
-      built web apps with over 200,000 users
+      computer science at&nbsp;
+      <a className="text-stone-900" href="https://www.daiict.ac.in/">
+        DAIICT
+      </a>
+      <span>&nbsp;&&nbsp;</span>
+      <a className="text-stone-900" href="https://www.stevens.edu/">
+        Stevens
+      </a>
+      <span>&nbsp;(grad)</span>
     </div>
   </>
 );
